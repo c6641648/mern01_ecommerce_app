@@ -1,7 +1,9 @@
+**Author**
+Chaitanya Dhanorkar
+
 # Install Dependencies
 
 **For Backend** - `npm i`
-
 **For Frontend** - `cd frontend` ` npm i`
 
 ## Env Variables
@@ -24,4 +26,3 @@ SMPT_PORT=
 CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
-_fill each filed with your info respectively_
